@@ -5,4 +5,4 @@ On this page, I will share codes on how to make fancy plots in R. I think that e
 -----------------------------------------------
 1) [Line Graph] Türkiye versus G7 Countries {real data}
    
-![linegraph](https://github.com/gungorMetehan/Fancy_Data_Visualization_for_Psychometricians/assets/102655648/411b006a-a9f7-4dda-8bd1-c9e7b00a119f)
+![linegraph](https://github.com/gungorMetehan/Fancy_Data_Visualization_for_Psychometricians/assets/102655648/43c8ec4c-70bc-431b-aff0-a4ed9c616ce4)
