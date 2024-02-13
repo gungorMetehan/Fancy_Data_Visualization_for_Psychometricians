@@ -5,9 +5,14 @@ On this page, I will share codes on how to make fancy plots in R. I think that e
 -----------------------------------------------
 1) ## $\textcolor{#508AA1}{Line\ Graph\ 1}$ Türkiye versus G7 Countries {real data}
    
-![linegraph](https://github.com/gungorMetehan/Fancy_Data_Visualization_for_Psychometricians/assets/102655648/43c8ec4c-70bc-431b-aff0-a4ed9c616ce4)
+![linegraph1](https://github.com/gungorMetehan/Fancy_Data_Visualization_for_Psychometricians/assets/102655648/43c8ec4c-70bc-431b-aff0-a4ed9c616ce4)
 
 -----------------------------------------------
 2) ## $\textcolor{#508AA1}{Line\ Graph\ 2}$ Türkiye versus EU Countries {real data}
    
 ![linegraph2](https://github.com/gungorMetehan/Fancy_Data_Visualization_for_Psychometricians/assets/102655648/b0d952da-db6f-4d6a-b913-a6d626a87a3e)
+
+-----------------------------------------------
+3) ## $\textcolor{#508AA1}{Line\ Graph\ 3}$ Average Reading Achievement by Gender: Sweden {real data}
+   
+![linegraph3](https://github.com/gungorMetehan/Fancy_Data_Visualization_for_Psychometricians/assets/102655648/8203981f-86a7-4405-a249-2a5777afbfdb)
